@@ -90,3 +90,5 @@ Me chamo Gabriel Paiva, tenho 21 anos e sou natural do Rio Grande do Norte. Conc
 <br/>
 <br/>
 
+### Estatísticas 📊
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrdsp&show_icons=true)

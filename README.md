@@ -91,7 +91,7 @@ Me chamo Gabriel Paiva, tenho 21 anos e sou natural do Rio Grande do Norte. Conc
 <br/>
 
 ### Estatísticas 📊
-<p>
+
     <img
         align="left"
         alt="GitHub Stats"
@@ -106,5 +106,3 @@ Me chamo Gabriel Paiva, tenho 21 anos e sou natural do Rio Grande do Norte. Conc
         height="200"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrdsp&theme=transparent&layout=compact&custom_tittle=Tecnologias&langs_count=7"
 />
-
-</p>

@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Gabriel Paiva
+# 👨‍💻 Gabriel Paiva
 
 **`Desenvolvedor Júnior`**
 

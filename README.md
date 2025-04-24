@@ -101,7 +101,7 @@ src="https://github-readme-stats.vercel.app/api?username=gabrdsp&showicons=true&
 />
 
 <img
-align="left"
+align="right"
 alt="GitHub Stats"
 height="200"
 style="padding-right: 10px;"

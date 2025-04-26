@@ -105,5 +105,4 @@ align="left"
 alt="GitHub Stats"
 height="180"
 style="padding-right: 9px;"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrdsp&theme=transparent&layout=compact&custom_title=Tecnologias&langs_count=9&"
 />

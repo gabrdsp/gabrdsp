@@ -142,7 +142,7 @@ align="left"
 alt="GitHub Stats"
 height="180"
 style="padding-right: 9px;"
-src="https://github-readme-stats.vercel.app/api?username=gabrdsp&showicons=true&theme=transparent&include_all_commits=true&locale=pt-br"
+src="https://github-readme-stats.vercel.app/api?username=gabrdsp&showicons=true&theme=transparent&include_all_commits=true&locale"
 />
 
 <img

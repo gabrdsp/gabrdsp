@@ -2,170 +2,44 @@
 
 **`Desenvolvedor Júnior`**
 
-Me chamo Gabriel Paiva, tenho 21 anos e sou natural do Rio Grande do Norte. Concluí o Ensino Médio no IFRN, com o Ensino Técnico. Atualmente, estou cursando Tecnologia da Informação na UFERSA.
+Olá! Me chamo Gabriel Paiva, tenho 21 anos e sou natural do Rio Grande do Norte. Concluí o Ensino Médio no IFRN com formação técnica e atualmente curso **Tecnologia da Informação** na UFERSA.  
 
-### 🤖 Linguagens e Tecnologias
+---
 
-<!-- Frontend (HTML, CSS, JS, TS, React, Next.js) -->
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Next.js" 
-    title="Next.js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Vite" 
-    title="Vite"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" 
-/>
+## 🚀 Tecnologias e Ferramentas
 
-<!-- Backend & Lógica -->
+### Frontend
+![HTML5](https://img.shields.io/badge/-HTML-white?style=for-the-badge&logo=HTML5&logoColor=0A66C2)
+![CSS](https://img.shields.io/badge/-CSS-white?style=for-the-badge&logo=CSS3&logoColor=0A66C2)
+![JavaScript](https://img.shields.io/badge/-JavaScript-white?style=for-the-badge&logo=JavaScript&logoColor=0A66C2)
+![TypeScript](https://img.shields.io/badge/-TypeScript-white?style=for-the-badge&logo=TypeScript&logoColor=0A66C2)
+![React](https://img.shields.io/badge/-React-white?style=for-the-badge&logo=React&logoColor=0A66C2)
+![Next.js](https://img.shields.io/badge/-Next-white?style=for-the-badge&logo=Next.js&logoColor=0A66C2)
+![Vite](https://img.shields.io/badge/-Vite-white?style=for-the-badge&logo=Vite&logoColor=0A66C2)
+![Figma](https://img.shields.io/badge/-Figma-white?style=for-the-badge&logo=Figma&logoColor=0A66C2)
 
-<img 
-    align="left" 
-    alt="Java " 
-    title="Java "
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="C" 
-    title="C"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="C++" 
-    title="C++"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" 
-/>
+### Backend & Banco de Dados
+![Java](https://img.shields.io/badge/-Java-white?style=for-the-badge&logo=openjdk&logoColor=0A66C2)
+![C](https://img.shields.io/badge/-C-white?style=for-the-badge&logo=C&logoColor=0A66C2)
+![C++](https://img.shields.io/badge/-C++-white?style=for-the-badge&logo=C%2B%2B&logoColor=0A66C2)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-white?style=for-the-badge&logo=PostgreSQL&logoColor=0A66C2)
+![Docker](https://img.shields.io/badge/-Docker-white?style=for-the-badge&logo=Docker&logoColor=0A66C2)
 
-<!-- Design & IDE -->
-<img 
-    align="left" 
-    alt="Figma" 
-    title="Figma"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="VS code " 
-    title="VS code "
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git " 
-    title="Git "
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="IntelliJ" 
-    title="IntelliJ"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="SQL " 
-    title="SQL "
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="PostgreSQL" 
-    title="PostgreSQL"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Docker" 
-    title="Docker"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" 
-/>
+### Ferramentas de Desenvolvimento
+![Git](https://img.shields.io/badge/-Git-white?style=for-the-badge&logo=Git&logoColor=0A66C2)
+![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ-white?style=for-the-badge&logo=IntelliJ-IDEA&logoColor=0A66C2)
+![VS Code](https://img.shields.io/badge/-VS%20Code-white?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=0A66C2)
 
-<br/>
-<br/>
+---
 
-### Estatísticas 📊
+## 📈 Estatísticas GitHub
 
-<img
-align="left"
-alt="GitHub Stats"
-height="180"
-style="padding-right: 9px;"
-src="https://github-readme-stats.vercel.app/api?username=gabrdsp&showicons=true&theme=transparent&include_all_commits=true&locale"
-/>
+![Gabriel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabrdsp&show_icons=true&hide_title=true&bg_color=ffffff&title_color=0A66C2&text_color=0A66C2&icon_color=0A66C2&border_color=ffffff) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrdsp&layout=compact&bg_color=ffffff&title_color=0A66C2&text_color=0A66C2&icon_color=0A66C2&border_color=ffffff)
 
-<img
-align="left"
-alt="GitHub Stats"
-height="180"
-style="padding-right: 9px;"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrdsp&theme=transparent&layout=compact&custom_title=Tecnologias&langs_count=9&"
-/>
+---
+
+## 📫 Contato
+
+- [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/gabrdsp/)
+- 📧 gabrdsp@outlook.com

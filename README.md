@@ -1,12 +1,12 @@
 # Gabriel Paiva
 
-**`Desenvolvedor Júnior`**
+**`Junior Developer`**
 
-Olá! Me chamo Gabriel Paiva, tenho 21 anos e sou natural do Rio Grande do Norte. Concluí o Ensino Médio no IFRN com formação técnica e atualmente curso **Tecnologia da Informação** na UFERSA.  
+Hi! My name is Gabriel Paiva, I’m 21y old and I’m from Brazil. I completed high school at IFRN with a technical background and I’m currently pursuing a degree in Information Technology at UFERSA. 
 
 ---
 
-## 🚀 Tecnologias e Ferramentas
+## 🚀 Technologies and Tools
 
 ### Frontend
 ![HTML5](https://img.shields.io/badge/-HTML-white?style=for-the-badge&logo=HTML5&logoColor=0A66C2)
@@ -18,28 +18,28 @@ Olá! Me chamo Gabriel Paiva, tenho 21 anos e sou natural do Rio Grande do Norte
 ![Vite](https://img.shields.io/badge/-Vite-white?style=for-the-badge&logo=Vite&logoColor=0A66C2)
 ![Figma](https://img.shields.io/badge/-Figma-white?style=for-the-badge&logo=Figma&logoColor=0A66C2)
 
-### Backend & Banco de Dados
+### Backend & Database
 ![Java](https://img.shields.io/badge/-Java-white?style=for-the-badge&logo=openjdk&logoColor=0A66C2)
 ![C](https://img.shields.io/badge/-C-white?style=for-the-badge&logo=C&logoColor=0A66C2)
 ![C++](https://img.shields.io/badge/-C++-white?style=for-the-badge&logo=C%2B%2B&logoColor=0A66C2)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-white?style=for-the-badge&logo=PostgreSQL&logoColor=0A66C2)
 ![Docker](https://img.shields.io/badge/-Docker-white?style=for-the-badge&logo=Docker&logoColor=0A66C2)
 
-### Ferramentas de Desenvolvimento
+### Development Tools
 ![Git](https://img.shields.io/badge/-Git-white?style=for-the-badge&logo=Git&logoColor=0A66C2)
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ-white?style=for-the-badge&logo=IntelliJ-IDEA&logoColor=0A66C2)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-white?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=0A66C2)
 
 ---
 
-## 📈 Estatísticas GitHub
+## 📈 GitHub Statistics
 
 ![Gabriel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabrdsp&show_icons=true&hide_title=true&bg_color=ffffff&title_color=0A66C2&text_color=0A66C2&icon_color=0A66C2&border_color=ffffff) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrdsp&layout=compact&bg_color=ffffff&title_color=0A66C2&text_color=0A66C2&icon_color=0A66C2&border_color=ffffff)
 
 ---
 
-## 📫 Contato
+## 📫 Contact
 
 - [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/gabrdsp/)
 - 📧 bengabrielcsp@gmail.com

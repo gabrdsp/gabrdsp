@@ -35,7 +35,7 @@ Hi! My name is Gabriel Paiva, I’m 21y old and I’m from Brazil. I completed h
 ## 📈 GitHub Statistics
 
 ![Gabriel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabrdsp&show_icons=true&hide_title=true&bg_color=ffffff&title_color=0A66C2&text_color=0A66C2&icon_color=0A66C2&border_color=ffffff) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrdsp&layout=compact&bg_color=ffffff&title_color=0A66C2&text_color=0A66C2&icon_color=0A66C2&border_color=ffffff)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrdsp&layout=compact&bg_color=ffffff&title_color=0A66C2&text_color=0A66C2&icon_color=0A66C2&border_color=fffff)
 
 ---
 

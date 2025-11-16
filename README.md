@@ -3,6 +3,7 @@
 **`Junior Developer`**
 
 Hi! My name is Gabriel Paiva, I’m 21y old and I’m from Brazil. I completed high school at IFRN with a technical background and I’m currently pursuing a degree in Information Technology at UFERSA. I am also a researcher at the Computational Intelligence Laboratory.
+
 ---
 
 ## 🚀 Technologies and Tools

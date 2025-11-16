@@ -2,15 +2,12 @@
 
 **`Junior Developer`**
 
-Hi! My name is Gabriel Paiva, I’m 21y old and I’m from Brazil. I completed high school at IFRN with a technical background and I’m currently pursuing a degree in Information Technology at UFERSA. I am also a researcher at the Computational Intelligence Laboratory (CILab), where I contribute to projects and studies in the field of computational intelligence and data analysis.
-
+Hi! My name is Gabriel Paiva, I’m 21y old and I’m from Brazil. I completed high school at IFRN with a technical background and I’m currently pursuing a degree in Information Technology at UFERSA. I am also a researcher at the Computational Intelligence Laboratory.
 ---
 
 ## 🚀 Technologies and Tools
 
 ### Frontend
-![HTML5](https://img.shields.io/badge/-HTML-white?style=for-the-badge&logo=HTML5&logoColor=0A66C2)
-![CSS](https://img.shields.io/badge/-CSS-white?style=for-the-badge&logo=CSS3&logoColor=0A66C2)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-white?style=for-the-badge&logo=JavaScript&logoColor=0A66C2)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-white?style=for-the-badge&logo=TypeScript&logoColor=0A66C2)
 ![React](https://img.shields.io/badge/-React-white?style=for-the-badge&logo=React&logoColor=0A66C2)

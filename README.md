@@ -26,7 +26,7 @@ Hi! My name is Gabriel Paiva, I’m 21y old and I’m from Brazil. I completed h
 ### Development Tools
 ![Git](https://img.shields.io/badge/-Git-white?style=for-the-badge&logo=Git&logoColor=0A66C2)
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ-white?style=for-the-badge&logo=IntelliJ-IDEA&logoColor=0A66C2)
-![VS Code](https://img.shields.io/badge/-VS%20Code-white?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=0A66C2)
+![VS Code](https://img.shields.io/badge/-Flutter-white?style=for-the-badge&logo=Flutter&logoColor=0A66C2)
 
 ---
 

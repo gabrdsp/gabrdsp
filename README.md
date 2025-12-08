@@ -27,17 +27,3 @@ Hi! My name is Gabriel Paiva, I’m 21y old and I’m from Brazil. I completed h
 ![Git](https://img.shields.io/badge/-Git-white?style=for-the-badge&logo=Git&logoColor=0A66C2)
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ-white?style=for-the-badge&logo=IntelliJ-IDEA&logoColor=0A66C2)
 ![VS Code](https://img.shields.io/badge/-Flutter-white?style=for-the-badge&logo=Flutter&logoColor=0A66C2)
-
----
-
-## 📈 GitHub Statistics
-
-![Gabriel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabrdsp&show_icons=true&hide_title=true&bg_color=ffffff&title_color=0A66C2&text_color=0A66C2&icon_color=0A66C2&border_color=ffffff) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrdsp&layout=compact&bg_color=ffffff&title_color=0A66C2&text_color=0A66C2&icon_color=0A66C2&border_color=fffff)
-
----
-
-## 📫 Contact
-
-- [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/gabrdsp/)
-- 📧 bengabrielcsp@gmail.com

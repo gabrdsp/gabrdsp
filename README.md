@@ -15,6 +15,7 @@ Hi! My name is Gabriel Paiva, I’m 21y old and I’m from Brazil. I completed h
 ![Next.js](https://img.shields.io/badge/-Next-white?style=for-the-badge&logo=Next.js&logoColor=0A66C2)
 ![Vite](https://img.shields.io/badge/-Vite-white?style=for-the-badge&logo=Vite&logoColor=0A66C2)
 ![Figma](https://img.shields.io/badge/-Figma-white?style=for-the-badge&logo=Figma&logoColor=0A66C2)
+![Dart](https://img.shields.io/badge/-Dart-white?style=for-the-badge&logo=Dart&logoColor=0A66C2)
 
 ### Backend & Database
 ![Java](https://img.shields.io/badge/-Java-white?style=for-the-badge&logo=openjdk&logoColor=0A66C2)

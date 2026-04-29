@@ -1,15 +1,15 @@
 <table>
   <tr>
     <td  width="400">
-      <img src="https://w0.peakpx.com/wallpaper/803/657/HD-wallpaper-asian-art-korea-china-japan-oldxian-asia.jpg" width="400" alt="Inferno Canto VIII - Gustave Doré">
+      <img src="https://i.imgur.com/6QAj7rA.png" width="400" alt="Uma Nova Aurora - Cain Aang">
     </td>
     <td valign="top">
       <h1>Gabriel Paiva</h1>
-      <p>Software Engineer, currently pursuing a Bachelor's degree in Information Technology at UFERSA, working in the Computational Intelligence Laboratory, where I develop projects focused on Artificial Intelligence, Data Analysis, and Computer Vision.
+      <p>Software Engineer and IT undergraduate at UFERSA, working at the Computational Intelligence Laboratory with a focus on Artificial Intelligence, Data Analysis, and Computer Vision.
 
-Currently, I also work as a Network Technical Support Technician at Brisanet, directly handling the diagnosis and resolution of network infrastructure problems, which strengthens my practical understanding of distributed systems, connectivity, and operation in real-world environments.
+Currently a Network Technical Support Technician at Brisanet, with hands-on experience in network infrastructure, troubleshooting, and real-world system operations.
 
-My interests lie in developing complete solutions—from modeling intelligent algorithms to building modern, scalable, and well-structured applications..</p>
+Interested in building end-to-end solutions — from intelligent algorithms to scalable and modern applications.</p>
       <h2>Areas of Interest</h2>
       <ul>
         <li>Artificial Intelligence & Machine Learning</li>

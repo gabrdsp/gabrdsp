@@ -30,7 +30,7 @@ Interested in building end-to-end solutions — from intelligent algorithms to s
       <h2>Contact</h2>
       <ul>
         <li>Instagram: <a href="https://www.instagram.com/gabrdsp/">@Gabrdsp</a></li>
-        <li>Website: <a href="https://gabrdsp.github.io/TechPortfolio/">https://gabrdsp.github.io/TechPortfolio/</a></li>
+        <li>Website: <a href="https://gabrdsp.github.io/gabrielpaiva/">https://gabrdsp.github.io/gabrielpaiva/</a></li>
       </ul>
     </td>
   </tr>
